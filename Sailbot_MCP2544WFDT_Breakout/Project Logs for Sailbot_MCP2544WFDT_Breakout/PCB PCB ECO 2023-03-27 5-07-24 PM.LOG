@@ -1,0 +1,9 @@
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP2544WFDT-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp2544wfdt-esn/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP2542FD-MCP2542WFD-4WFD-Data-Sheet-DS20005514C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP2544WFDT-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP2544WFDT-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP2544WFDT-E-SN?qs=qdgZG5p0FZ4T7O4Xjw%2FO1Q%3D%3D"; VariantName = "[No Variations]"
